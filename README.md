@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi folks 👋
+
+Welcome to my GitHub! I'm a senior software engineer and technology enthusiast and you'll find my latest experiments and open source contributions here. Feel free to reach out if you have any ideas you'd like to collaborate on, I'm also available for consulting gigs and project work if those come along.
+
+
 
 <!--
 **peterelst/peterelst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
